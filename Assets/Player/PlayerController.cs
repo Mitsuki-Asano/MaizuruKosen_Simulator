@@ -44,8 +44,12 @@ public class PlayerController : MonoBehaviour
         // 入力取得
         if (!isMoving)
         {
-            axisH = Input.GetAxisRaw("Horizontal");
-            axisV = Input.GetAxisRaw("Vertical");
+            axisH = 0f;
+            axisV = 0f;
+            if (Input.GetKey(KeyCode.W)) axisV = 1f;
+            if (Input.GetKey(KeyCode.S)) axisV = -1f;
+            if (Input.GetKey(KeyCode.A)) axisH = -1f;
+            if (Input.GetKey(KeyCode.D)) axisH = 1f;
         }
 
         // 移動角度計算
