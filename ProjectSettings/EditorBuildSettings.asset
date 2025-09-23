@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/3goukann_3kai_higasi.unity
     guid: 1cdefd3a4d8cbc84895ff8e3bd7e0541
+  - enabled: 1
+    path: Assets/Scenes/sennmenzyo.unity
+    guid: d9731c8803e6e154198fec30c091d5d6
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
