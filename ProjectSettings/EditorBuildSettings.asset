@@ -23,6 +23,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/sennmenzyo.unity
     guid: d9731c8803e6e154198fec30c091d5d6
+  - enabled: 1
+    path: Assets/Scenes/3goukann_1kai.unity
+    guid: 428ceef9ecf49a84e8539703be967b3f
+  - enabled: 1
+    path: Assets/Scenes/3goukann_1kai_higasi.unity
+    guid: 0755a2783f5ee5d44800c4430b3c60f5
+  - enabled: 1
+    path: Assets/Scenes/3goukann_2kai_higasi.unity
+    guid: 141d568600fe4db419a5cc3e388e0652
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
