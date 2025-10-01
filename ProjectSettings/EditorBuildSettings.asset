@@ -32,6 +32,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/3goukann_2kai_higasi.unity
     guid: 141d568600fe4db419a5cc3e388e0652
+  - enabled: 1
+    path: Assets/Scenes/hisyoku.unity
+    guid: c95f695e198b8d040a273fc0432f04c8
+  - enabled: 1
+    path: Assets/Scenes/toire.unity
+    guid: 5008ffad9d85d294b98d7dcfd341061f
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
