@@ -38,6 +38,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/toire.unity
     guid: 5008ffad9d85d294b98d7dcfd341061f
+  - enabled: 1
+    path: Assets/Scenes/sennmenzyo_1.unity
+    guid: d483d1324453e234ea953d7efbd22718
+  - enabled: 1
+    path: Assets/Scenes/tore_1.unity
+    guid: f24eac8845a5e8441bb55ad0ff27c3f2
+  - enabled: 1
+    path: Assets/Scenes/gennkann.unity
+    guid: 846dff6edd0fac54eb3335a76e44ec98
+  - enabled: 1
+    path: Assets/Scenes/2goukann_2kai.unity
+    guid: 80616487602e0f8438b8c477b3bae051
+  - enabled: 1
+    path: Assets/Scenes/hisyoku 2.unity
+    guid: 79b34b83b84abe44295903dc2a277b74
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
