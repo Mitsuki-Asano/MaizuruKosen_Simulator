@@ -53,6 +53,36 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/hisyoku 2.unity
     guid: 79b34b83b84abe44295903dc2a277b74
+  - enabled: 1
+    path: Assets/Scenes/hisyoku 1.unity
+    guid: b0523d62e8d28fc488f73233f30e241a
+  - enabled: 1
+    path: Assets/Scenes/2goukann_1kai.unity
+    guid: 5f59bcf3cee08f74db6a583c75577f4f
+  - enabled: 1
+    path: Assets/Scenes/sennmenzyo 1.unity
+    guid: 1918379b58b24964c93ebc91767cdc13
+  - enabled: 1
+    path: Assets/Scenes/sennmenzyo 2.unity
+    guid: 0428184fc1f687643b99ea48195621b8
+  - enabled: 1
+    path: Assets/Scenes/sennmenzyo_1 1.unity
+    guid: ed55cd36ff6e75c4e908d149a164d6f8
+  - enabled: 1
+    path: Assets/Scenes/sennmenzyo_1 2.unity
+    guid: 5dd892f6c87a128438f164ab40359671
+  - enabled: 1
+    path: Assets/Scenes/toire 1.unity
+    guid: 62e7938aca3478549a5b2b676ee340fe
+  - enabled: 1
+    path: Assets/Scenes/toire 2.unity
+    guid: 279cb069dc5073e4a92077e68aada311
+  - enabled: 1
+    path: Assets/Scenes/tore_1 1.unity
+    guid: bf26023706c45814985a7a9ce0457bf8
+  - enabled: 1
+    path: Assets/Scenes/tore_1 2.unity
+    guid: e335887afc1d84e42b6aa4a5684bab3a
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
